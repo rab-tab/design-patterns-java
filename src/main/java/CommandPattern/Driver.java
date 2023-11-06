@@ -7,5 +7,6 @@ public class Driver {
 
         remoteControl.setCommand(new TurnACOnCommand(airConditioner));
         remoteControl.pressButton();
+        remoteControl.undo();
     }
 }

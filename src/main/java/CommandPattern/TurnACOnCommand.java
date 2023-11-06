@@ -13,4 +13,9 @@ public class TurnACOnCommand implements Command {
         airConditioner.turnOnAC();
 
     }
+
+    @Override
+    public void undo() {
+        airConditioner.turnOffAC();
+    }
 }
