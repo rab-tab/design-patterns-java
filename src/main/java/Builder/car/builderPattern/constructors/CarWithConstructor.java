@@ -1,6 +1,7 @@
 package Builder.car.builderPattern.constructors;
 
-import builderPattern.*;
+
+import Builder.car.builderPattern.*;
 import lombok.NonNull;
 
 import java.util.List;

@@ -1,7 +1,8 @@
 package Builder.car.builderPattern;
 
-import builderPattern.constructors.CarWithConstructor;
-import builderPattern.setters.CarWithSetters;
+
+import Builder.car.builderPattern.constructors.CarWithConstructor;
+import Builder.car.builderPattern.setters.CarWithSetters;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,0 +1,20 @@
+
+ksquid:S1450"TRemove the "seats" field and declare it as a local variable in the relevant methods.(ý§’ð
+Dsquid:S1068"(Remove this unused "fuel" private field.(º›“„ûÿÿÿÿ
+Asquid:S1068"+Remove this unused "sunRoof" private field.(ûÄÔ`
+qsquid:S1450"ZRemove the "musicSystem" field and declare it as a local variable in the relevant methods.(¥íþ”
+lsquid:S1450"VRemove the "sunRoof" field and declare it as a local variable in the relevant methods.(ûÄÔ`
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰í Éûÿÿÿÿ
+Asquid:S1068
+"*Remove this unused "engine" private field.(Ð£½©
+Hsquid:S1068",Remove this unused "steering" private field.(¥ŠúÍýÿÿÿÿ
+Fsquid:S1068"/Remove this unused "musicSystem" private field.(¥íþ”
+Ksquid:S1068"/Remove this unused "centralLock" private field.(˜³ãóÿÿÿÿÿ
+lsquid:S1450
+"URemove the "engine" field and declare it as a local variable in the relevant methods.(Ð£½©
+ssquid:S1450"WRemove the "steering" field and declare it as a local variable in the relevant methods.(¥ŠúÍýÿÿÿÿ
+rsquid:S1450"VRemove the "airBags" field and declare it as a local variable in the relevant methods.(•ò·¯þÿÿÿÿ
+@squid:S1068")Remove this unused "seats" private field.(ý§’ð
+Gsquid:S1068"+Remove this unused "airBags" private field.(•ò·¯þÿÿÿÿ
+osquid:S1450"SRemove the "fuel" field and declare it as a local variable in the relevant methods.(º›“„ûÿÿÿÿ
+vsquid:S1450"ZRemove the "centralLock" field and declare it as a local variable in the relevant methods.(˜³ãóÿÿÿÿÿ

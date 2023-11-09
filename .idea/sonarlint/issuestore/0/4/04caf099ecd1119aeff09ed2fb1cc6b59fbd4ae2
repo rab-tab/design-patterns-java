@@ -1,0 +1,11 @@
+
+†"squid:ClassVariableVisibilityCheck"QMake DEBUG a static final constant or non-public and provide accessors if needed.(Ö¹¢µ8³Õõœº1
+Š"squid:ClassVariableVisibilityCheck"PMake INFO a static final constant or non-public and provide accessors if needed.(‹‡ßœÿÿÿÿÿ8˜šôœº1
+Isquid:S1444"+Make this "public static DEBUG" field final(Ö¹¢µ8³Õõœº1
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ß…øøÿÿÿÿ
+nsquid:S3008"PRename this field "DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹¢µ8³Õõœº1
+‹"squid:ClassVariableVisibilityCheck"QMake ERROR a static final constant or non-public and provide accessors if needed.(­ º¹ûÿÿÿÿ8³Õõœº1
+ssquid:S3008"PRename this field "ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ º¹ûÿÿÿÿ8³Õõœº1
+Nsquid:S1444"+Make this "public static ERROR" field final(­ º¹ûÿÿÿÿ8³Õõœº1
+rsquid:S3008"ORename this field "INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‡ßœÿÿÿÿÿ8˜šôœº1
+Msquid:S1444"*Make this "public static INFO" field final(‹‡ßœÿÿÿÿÿ8˜šôœº1

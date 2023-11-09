@@ -1,6 +1,7 @@
 package Builder.car.builderPattern.setters;
 
-import builderPattern.*;
+import Builder.car.builderPattern.*;
+
 
 import java.util.List;
 
